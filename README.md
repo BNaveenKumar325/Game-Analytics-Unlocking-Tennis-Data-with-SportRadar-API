@@ -99,9 +99,3 @@ A complete end-to-end project for **managing, visualizing, and analyzing sports 
 - Adjust DB connection string depending on whether you use **MySQL** or **PostgreSQL**.
 - Some visualizations (maps, charts) are placeholders – extend with more interactive filters for bonus points.
 
----
-
-## 👨‍💻 Author
-
-Developed as part of **SportRadar Event Explorer project** for academic/learning purposes.
-
